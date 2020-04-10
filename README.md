@@ -1,26 +1,21 @@
 # Bootstrap - IV
 
-  Studies on the bootstrap css
+  <p>Studies on the bootstrap css</p>
+  
   Link to classes wich resolve to this whole project: 
-  <a href="https://www.youtube.com/watch?v=_0PL45xM">Link<a>__0&list=PLBbHLUbqqCrTwIrdix6kl84m4OPE0JexR
+  <h2><a href="https://www.youtube.com/watch?v=_0PL45xM__0&list=PLBbHLUbqqCrTwIrdix6kl84m4OPE0JexR">Project Playlist</a></h2>
 
-  Contains:
-    	Use of NPM and Sass: https://youtu.be/VwN9OzoK9o8
-      
-	    Navbars: https://youtu.be/ZYYaMN4m40c
-      
-	    Carousel: https://youtu.be/rYUxeqnirvc
-      
-	    Scrollspy, active navigation: https://youtu.be/MeWjI1mOfyo
-      
-	    Card creation: https://youtu.be/VbWKMSHJKiQ
-      
-	    Modal: https://youtu.be/tAEnKCOEfgU
-      
-	    Nav Pills, Jumbotron Fluid, Embed: https://youtu.be/tBRqx3HQG0o
-      
-	    Responsive Forms, Font Awesome and Popover: https://youtu.be/ngQ3VovCRt4
-      
-	    List group, Button group, Blockquote: https://youtu.be/4ak05DQUec8
-	
+  <h3>Contains<h3>
+  <ul>
+	<li><a href="https://youtu.be/VwN9OzoK9o8">NPM and Sass</a></li>
+	<li><a href="https://youtu.be/ZYYaMN4m40c">Navbars</a></li>      
+	<li><a href="https://youtu.be/rYUxeqnirvc">Carousel</a></li>       
+	<li><a href="https://youtu.be/MeWjI1mOfyo">Scrollspy, active navigation</a></li>       
+	<li><a href="https://youtu.be/VbWKMSHJKiQ">Card creation</a></li>      
+	<li><a href="https://youtu.be/tAEnKCOEfgU">Modals</a></li>      
+	<li><a href="https://youtu.be/tBRqx3HQG0o">Nav Pills, Jumbotron Fluid, Embed</a></li>      
+	<li><a href="https://youtu.be/ngQ3VovCRt4">Responsive Forms, Font Awesome and Popover</a></li>      
+	<li><a href="https://youtu.be/4ak05DQUec8">List group, Button group, Blockquote</a></li>
+  </ul>
+
     
